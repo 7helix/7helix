@@ -1,6 +1,4 @@
-<img src="https://cdn3.emoji.gg/emojis/184293-bunnywave.gif"> 
-
-
+<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="220" alt="coding gif">
 
 ### Hi, I'm shiva
 
